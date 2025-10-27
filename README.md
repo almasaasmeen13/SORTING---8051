@@ -57,10 +57,14 @@ END
 **MEMORY WINDOW:**
 
 Before execution: D:0x40H:
+![WhatsApp Image 2025-10-26 at 21 20 04_5db0bb2a](https://github.com/user-attachments/assets/2797332d-3511-4030-a691-f7ce1fcd9177)
+
 <BR>
 <BR>
 <BR>
 After execution: D:0x40H:
+
+
 <BR>
 <BR>
 <BR>
